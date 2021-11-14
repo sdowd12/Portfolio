@@ -1,26 +1,26 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Sam Dowd
+*An Aspiring Investment Analyst, interests in ESG, M&A, Equity Research*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Business Administration (Business Management), *University of Massachusetts-Dartmouth*, 2020-2021
+* Bachelors of Science (Environmental Conservation), *University of Massachusetts-Amherst*, 2014-2017
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+# [Project 1: Insert here](http://example)
+![alt text](example upsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+This project integrates various news source for performing sentiment analysis pertaining to example.
+* **Python libraries used:** example
+* **Input:** example data
+* **Output:** example solution
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+# [Project 2: insert here](http://example)
+![alt text](example upsplash.jpg)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+Photo by <a href="example">Unsplash</a>
+
+This project makes use of ***example analysis***coupled with ***technical analysis*** in the trading of example.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
+* **Input:** example historical price
 * **Output:** Trading signals triggers buying and selling
